@@ -43,7 +43,7 @@ INSTALLED_APPS = (
 
             ###My Apps###
     'core',
-    'professores',
+    # 'professores',
     'accounts',
     'students',
     'teachers',
